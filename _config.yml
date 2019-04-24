@@ -1,6 +1,6 @@
 # Site settings
-title: Shivam Mohan
-name: Shivam Mohan
+title: Shivam Mohan 
+name: Shivam Mohan (shivamohan07@gmail.com)
 
 # Build settings
 markdown: kramdown
@@ -41,8 +41,8 @@ roles:
    employer: Visa Inc
    description: 
  - title: Software Developer Intern
-   start: May 2016
-   end: July 2016
+   start: May-2016
+   end: July-2016
    employer: Visa Inc
    description: 
    
