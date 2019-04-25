@@ -1,5 +1,6 @@
 # Site settings
-title: Shivam Mohan 
+title: Shivam Mohan
+email: shivamohan07@gmail.com
 name: Shivam Mohan (shivamohan07@gmail.com)
 
 # Build settings
@@ -15,15 +16,16 @@ primarylinks:
    
 #Any buzzword skills you want to include
 skills:
- - Java
- - Apache Spark
- - Apache Kafka
- - Apache Hadoop
- - Apache Hive
- - Apache Hbase
- - Docker
- - Jenkins
- - Chef
+ - Java (Proficient)
+ - Apache Spark (Proficient)
+ - Apache Kafka (Proficient)
+ - Apache Hadoop (Proficient)
+ - Apache Hive (Proficient)
+ - Apache Hbase (Intermediate)
+ - Docker (Intermediate)
+ - Jenkins (Proficient)
+ - Chef (Beginner)
+ - GO Lang (Beginner)
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -75,11 +77,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
-<<<<<<< HEAD
-  - Shivamohan07/shivamohan07.github.io
-=======
  - Shivamohan07/shivamohan07.github.io
->>>>>>> e8f7317aca4bdb4c8b2d8f5ee2e7851a9ff58166
+
 
 
 #Stackoverflow flair is optional
@@ -88,9 +87,13 @@ github:
 #   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  I am Computer Science and Engineering graduate from Motilal Nehru National Institute of Technology, working with the Visa's Data Platform Team, in the domain of Big Data for the last 2 years.
+  Major focus of my work has been on building ETL pipelines that can handle an enormous loads of data and provision information as fast as possible.
+  I have worked on both batch processing as well as real time data processing and hence is well versed with the designing and programming paradigms of both the vertical
+  of Big Data.
+  I have also made major contribution for the development of a streamlined code integration and code deployment process for the my organization. 
+  I am a technology enthusiast always looking to learn new technologies and use them to enhance my delivery. In my spare time, I like to read code related articles
+  and love to watch conference talks.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
