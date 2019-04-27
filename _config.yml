@@ -26,6 +26,9 @@ skills:
  - Jenkins (Proficient)
  - Chef (Beginner)
  - GO Lang (Beginner)
+ - GIT (Proficient)
+ - Shell Scripting (Proficient)
+ - CI/CD
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
@@ -92,18 +95,38 @@ intro: |
   I have worked on both batch processing as well as real time data processing and hence is well versed with the designing and programming paradigms of both the vertical
   of Big Data. </br>
   I have also made major contribution for the development of a streamlined code integration and code deployment process for the my organization.</br> 
-  I am a technology enthusiast always looking to learn new technologies and use them to enhance my delivery. In my spare time, I like to read code related articles
+  I am a technology enthusiast always looking to learn new technologies and use them to enhance my skills. In my spare time, I like to read technology journals
   and love to watch conference talks.</br>
 
+
+
+professionalexp: |
+   <p>
+	<b>Project:</b> Rearchitect Enterprise Data Warehouse (EDW) </br>
+	<b>Role:</b> Developer</br>
+	<b>Scope:</b> The aim of this project was to migrate the existing data warehouse from propriety-based storage system to Hadoop, an open source distributed file system.</br>
+	<b>Technology Stack:</b> Hadoop, Spark, Java.</br>
+	</br>
+	<b>Project:</b> CI/CD (Continuous Integration and Continuous Deployment) Pipeline</br>
+	<b>Role:</b> Design, Developer</br>
+	<b>Scope:</b> The aim of the project was to create an automated code deployment pipeline. I worked as a developer on the project, and designed an integrated deployment pipeline.</br>
+	<b>Technology Stack:</b> Jenkins, Chef, Groovy, RPM, Maven-Archetype</br>
+	</br>
+	<b>Project:</b> Apple Pay</br>
+	<b>Role:</b> Developer</br>
+	<b>Scope:</b> This project is in collaboration with Apple to enable real time device notifications for all Apple Pay transactions.</br>
+	<b>Technology Stack:</b> Kafka, HBase, Java.</br>
+   </p>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   Extra-curricular: </br>
+   
+   <b>Extra-curricular:</b> </br>
    <ul>
     <li>Actively participated in debate & group discussions at school.</li>
     <li>Won Table Tennis Championship for 2 years successively at school in singles and doubles category. </li>
     <li> Member of SMILE Foundation, an NGO working for welfare of underprivileged children. </li>
    </ul>  
-   Honors: </br>
+   <b> Honors: </b></br>
    <ul>
     <li>Received Star of the Quarter award from Visa, for outstanding performance in Quarter III of FY17-18.</li>
    </ul>    
