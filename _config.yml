@@ -98,10 +98,15 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    Extra-curricular: </br>
-    • Actively participated in debate & group discussions at school. </br>
-    • Won Table Tennis Championship for 2 years successively at school in singles and doubles category. </br>
-    • Member of SMILE Foundation, an NGO working for welfare of underprivileged children. </br>
+   <ul>
+    <li>Actively participated in debate & group discussions at school.</li>
+    <li>Won Table Tennis Championship for 2 years successively at school in singles and doubles category. </li>
+    <li> Member of SMILE Foundation, an NGO working for welfare of underprivileged children. </li>
+   </ul>  
    Honors: </br>
-    • Received Star of the Quarter award from Visa, for outstanding performance in Quarter III of FY17-18.
+   <ul>
+    <li>Received Star of the Quarter award from Visa, for outstanding performance in Quarter III of FY17-18.</li>
+   </ul>    
+   
   
 theme: jekyll-theme-architect
