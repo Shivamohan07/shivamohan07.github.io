@@ -101,22 +101,22 @@ intro: |
 
 
 professionalexp: |
-   <p>
-	<b>Project:</b> Rearchitect Enterprise Data Warehouse (EDW) </br>
-	<b>Role:</b> Developer</br>
-	<b>Scope:</b> The aim of this project was to migrate the existing data warehouse from propriety-based storage system to Hadoop, an open source distributed file system.</br>
-	<b>Technology Stack:</b> Hadoop, Spark, Java.</br>
-	</br>
-	<b>Project:</b> CI/CD (Continuous Integration and Continuous Deployment) Pipeline</br>
-	<b>Role:</b> Design, Developer</br>
-	<b>Scope:</b> The aim of the project was to create an automated code deployment pipeline. I worked as a developer on the project, and designed an integrated deployment pipeline.</br>
-	<b>Technology Stack:</b> Jenkins, Chef, Groovy, RPM, Maven-Archetype</br>
-	</br>
-	<b>Project:</b> Apple Pay</br>
-	<b>Role:</b> Developer</br>
-	<b>Scope:</b> This project is in collaboration with Apple to enable real time device notifications for all Apple Pay transactions.</br>
-	<b>Technology Stack:</b> Kafka, HBase, Java.</br>
-   </p>
+ <p>
+ <b>Project:</b> Rearchitect Enterprise Data Warehouse (EDW) </br>
+ <b>Role:</b> Developer</br>
+ <b>Scope:</b> The aim of this project was to migrate the existing data warehouse from propriety-based storage system to Hadoop, an open source distributed file system.</br>
+ <b>Technology Stack:</b> Hadoop, Spark, Java.</br>
+ </br>
+ <b>Project:</b> CI/CD (Continuous Integration and Continuous Deployment) Pipeline</br>
+ <b>Role:</b> Design, Developer</br>
+ <b>Scope:</b> The aim of the project was to create an automated code deployment pipeline. I worked as a developer on the project, and designed an integrated deployment pipeline.</br>
+ <b>Technology Stack:</b> Jenkins, Chef, Groovy, RPM, Maven-Archetype</br>
+ </br>
+ <b>Project:</b> Apple Pay</br>
+ <b>Role:</b> Developer</br>
+ <b>Scope:</b> This project is in collaboration with Apple to enable real time device notifications for all Apple Pay transactions.</br>
+ <b>Technology Stack:</b> Kafka, HBase, Java.</br>
+ </p>
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    
