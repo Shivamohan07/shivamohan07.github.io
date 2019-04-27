@@ -85,16 +85,16 @@ github:
 
 
 #Stackoverflow flair is optional
-#stackoverflow:
-#   profileurl: http://stackoverflow.com/users/258813/rhinds
-#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/5362755/shivam-mohan
+   flairimageurl: https://stackoverflow.com/users/flair/5362755.png?theme=clean
 
 intro: |
   I am Computer Science and Engineering graduate from Motilal Nehru National Institute of Technology, working with the Visa's Data Platform Team, in the domain of Big Data for the last 2 years. </br>
   Major focus of my work has been on building ETL pipelines that can handle an enormous loads of data and provision information as fast as possible. </br>
   I have worked on both batch processing as well as real time data processing and hence is well versed with the designing and programming paradigms of both the vertical
-  of Big Data. </br>
-  I have also made major contribution for the development of a streamlined code integration and code deployment process for the my organization.</br> 
+  of Big Data Processing. </br>
+  I have also made major contribution for the development of a streamlined code integration and code deployment process for my organization.</br> 
   I am a technology enthusiast always looking to learn new technologies and use them to enhance my skills. In my spare time, I like to read technology journals
   and love to watch conference talks.</br>
 
