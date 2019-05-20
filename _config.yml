@@ -13,8 +13,10 @@ primarylinks:
    url: https://github.com/Shivamohan07
  - title: LinkedIn
    url: https://www.linkedin.com/in/shivam-mohan-99aa1082/
+ - title: DZone
+   url: https://dzone.com/users/3685265/shivam-mohan.html
  - title: Resume
-   url: https://drive.google.com/file/d/11H0U30r-DlqTfxTKARU3HnSUPo3Zysio/view?usp=sharing
+   url: https://drive.google.com/file/d/11H0U30r-DlqTfxTKARU3HnSUPo3Zysio/view?usp=sharing  	
    
 #Any buzzword skills you want to include
 skills:
@@ -88,7 +90,7 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/5362755.png?theme=clean
 
 intro: |
-  I am Computer Science and Engineering graduate from Motilal Nehru National Institute of Technology, working with the Visa's Data Platform Team, in the domain of Big Data for the last 2 years. </br>
+  I am Computer Science and Engineering graduate from <b>Motilal Nehru National Institute of Technology, Allahabad, India </b> working with the Visa's Data Platform Team, in the domain of Big Data since 2017. </br>
   Major focus of my work has been on building ETL pipelines that can handle an enormous loads of data and provision information as fast as possible. </br>
   I have worked on both batch processing as well as real time data processing and hence is well versed with the designing and programming paradigms of both the vertical
   of Big Data Processing. </br>
@@ -122,7 +124,7 @@ additionalinfo: |
    <ul>
     <li>Actively participated in debate & group discussions at school.</li>
     <li>Won Table Tennis Championship for 2 years successively at school in singles and doubles category. </li>
-    <li> Member of SMILE Foundation, an NGO working for welfare of underprivileged children. </li>
+    <li> Member of Smile Foundation, an NGO working for welfare of underprivileged children. </li>
    </ul>  
    <b> Honors: </b></br>
    <ul>
