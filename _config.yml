@@ -59,13 +59,15 @@ education:
    school: Motilal Nehru National Institute of Technology, Allahabad
 
 #This section is optional (as is the image link below)
-#coursera:
-#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-#   courses:
-#    - title: Functional Programming Principles in Scala
-#      link: https://www.coursera.org/course/progfun
-#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-#      date: September 16, 2013
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Neural Networks and Deep Learning by deeplearning.ai
+      link: https://www.coursera.org/learn/neural-networks-deep-learning?source=deprecated_spark_cdp
+      certificateLink: https://www.coursera.org/account/accomplishments/verify/49L9AWNJ9352
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: June 09, 2019
+      
     
 
 #This section is optional - embeds slideshows from speakerdeck
