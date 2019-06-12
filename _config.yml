@@ -67,14 +67,14 @@ coursera:
       certificateLink: https://www.coursera.org/account/accomplishments/verify/49L9AWNJ9352
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: June 09, 2019
-<<<<<<< HEAD
-    - title: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-      link: https://www.coursera.org/learn/deep-neural-network?
-      certificateLink: https://www.coursera.org/account/accomplishments/records/MGE9Z5YLNNB2
+      
+    - title: Neural Networks and Deep Learning 
+      link: https://www.coursera.org/learn/neural-networks-deep-learning?source=deprecated_spark_cdp
+      certificateLink: https://www.coursera.org/account/accomplishments/verify/49L9AWNJ9352
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: June 10, 2019
-=======
->>>>>>> c5152639b8330b864e5a376231f5be13dbbd34f7
+      date: June 09, 2019
+     
+
       
     
 
