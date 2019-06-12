@@ -64,13 +64,13 @@ coursera:
    courses:
     - title: Neural Networks and Deep Learning 
       link: https://www.coursera.org/learn/neural-networks-deep-learning?source=deprecated_spark_cdp
-      certificateLink: https://www.coursera.org/account/accomplishments/verify/49L9AWNJ9352
+      certificateLink: https://www.coursera.org/account/accomplishments/certificate/49L9AWNJ9352
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: June 09, 2019
       
     - title: Improving Deep Neural Networks
       link: https://www.coursera.org/learn/deep-neural-network
-      certificateLink: https://www.coursera.org/account/accomplishments/records/MGE9Z5YLNNB2
+      certificateLink: https://www.coursera.org/account/accomplishments/certificate/MGE9Z5YLNNB2
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: June 10, 2019
      
