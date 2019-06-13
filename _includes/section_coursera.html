@@ -7,10 +7,10 @@
 			<div id="courseraPanel">
 				{% for course in site.coursera.courses %}
 				<div class="row content-rounded-panel ">
-						<a target='_blank' href="{{course.link}}">
-							Name: {{course.title}}
+						Name: <a target='_blank' href="{{course.link}}">
+							 {{course.title}}
 						</a><br/>
-						<a target='_blank' href="{{course.certificateLink}}">
+						Credential: <a target='_blank' href="{{course.certificateLink}}">
 							See Credential
 						</a><br/>
 						<i>Date: {{course.date}}</i>
