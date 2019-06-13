@@ -6,14 +6,14 @@
 		<div class="content-rounded-panel">
 			<div id="courseraPanel">
 				{% for course in site.coursera.courses %}
-				<div class="row">
+				<div class="row content-rounded-panel ">
 						<a target='_blank' href="{{course.link}}">
-							{{course.title}}
+							Name: {{course.title}}
 						</a><br/>
 						<a target='_blank' href="{{course.certificateLink}}">
 							See Credential
 						</a><br/>
-						<i>{{course.date}}</i>
+						<i>Date: {{course.date}}</i>
 				</div><br/>
 				{% endfor %}
 			</div>
