@@ -1,7 +1,7 @@
 # Site settings
 title: Shivam Mohan
-email: shivamohan07@gmail.com
-name: Shivam Mohan (shivamohan07@gmail.com)
+email: shivammohan@outlook.in
+name: Shivam Mohan (shivammohan@outlook.in)
 
 # Build settings
 markdown: kramdown
@@ -16,7 +16,7 @@ primarylinks:
  - title: DZone
    url: https://dzone.com/users/3685265/shivam-mohan.html
  - title: Resume
-   url: https://drive.google.com/file/d/11H0U30r-DlqTfxTKARU3HnSUPo3Zysio/view?usp=sharing  	
+   url: https://drive.google.com/open?id=1BRD-8B3xZZeScSCvhUlw51wYxh__CQQY  	
    
 #Any buzzword skills you want to include
 skills:
