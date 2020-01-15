@@ -20,6 +20,7 @@ primarylinks:
    
 #Any buzzword skills you want to include
 skills:
+ - Deep Learning (Intermediate)
  - Java (Proficient)
  - Apache Spark (Proficient)
  - Apache Kafka (Proficient)
@@ -28,7 +29,6 @@ skills:
  - Apache Hbase (Intermediate)
  - Docker (Intermediate)
  - Jenkins (Proficient)
- - Chef (Beginner)
  - GO Lang (Beginner)
  - GIT (Proficient)
  - Shell Scripting (Proficient)
