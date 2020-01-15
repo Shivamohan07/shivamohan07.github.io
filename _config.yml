@@ -82,7 +82,12 @@ coursera:
    certificateLink: https://www.coursera.org/account/accomplishments/certificate/TKGNHBGEQ66S
    date: June 19, 2019
 
-      
+publications:
+ publications:
+ - title: Method, System, and Computer Program Product for Maintaining Data Centers
+   date:  Filed November 22, 2019 United States
+   type:  Patent (Pending)
+	       
     
 
 #This section is optional - embeds slideshows from speakerdeck

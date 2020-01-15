@@ -1,0 +1,20 @@
+{% if site.publications %}
+	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
+		<div class="top-rounded-panel grey-bg">
+			<h1>Patents/Publications</h1>
+		</div>
+		<div class="content-rounded-panel">
+			<div id="publicationsPanel">
+				{% for course in site.publications.publications %}
+				<div class="row content-rounded-panel ">
+						Name: <a target='_blank' href="{{course.link}}">
+							 {{publication.title}}
+						</a><br/>
+						Type: {{publication.type}}<br/>
+						<i>Date: {{publication.date}}</i>
+				</div><br/>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+{% endif %}
